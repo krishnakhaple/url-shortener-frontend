@@ -1,0 +1,70 @@
+.logindiv{
+  width:350px;
+  margin:60px auto;
+  padding:25px;
+  background-color:#ffffff;
+  border-radius:8px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.logindiv h2{
+  text-align:center;
+  margin-bottom:20px;
+}
+
+.form-group{
+  margin-bottom:20px;
+}
+
+.form-group label{
+  display:block;
+  margin-bottom:5px;
+}
+
+.form-group input{
+  width:100%;
+  padding:8px;
+  border:1px solid #ccc;
+  border-radius:4px;
+}
+
+button{
+  width:100%;
+  padding:10px;
+  background-color:#222;
+  color:white;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+}
+
+button:hover{
+  background-color:#444;
+}
+
+.error-msg{
+  color:red;
+  text-align:center;
+  margin-bottom:10px;
+}
+
+.forgotpassword,.logout{
+  text-align:center;
+  margin-top:10px;
+}
+
+.forgotpassword a,.logout a{
+  color:#007bff;
+  text-decoration:none;
+}
+
+
+.forgotpassword a:hover,.logout a:hover{
+  text-decoration:underline;
+}
+
+
+
+
+
+
