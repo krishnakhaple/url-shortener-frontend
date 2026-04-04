@@ -152,8 +152,41 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-frontend/
-backend/
+## 📁 Project Structure
+
+src/
+ ├── components/
+ │    ├── Register.jsx
+ │    ├── Login.jsx
+ │    ├── UrlShortenerForm.jsx
+ │    ├── UserLinks.jsx
+ │    ├── UpdateAction.jsx
+ │    ├── DeleteAction.jsx
+ │    ├── ForgotPassword.jsx
+ │    ├── ResetPassword.jsx
+ │    ├── Logout.jsx
+ │
+ ├── assets/
+ │    └── react.svg
+ │
+ ├── App.jsx
+ ├── main.jsx
+ ├── index.css
+ ├── App.css
+ ├── Login.css
+ ├── Register.css
+ ├── UserLinks.css
+ ├── UrlShortenerForm.css
+ ├── UpdateActions.css
+ ├── ForgotPassword.css
+ ├── ResetPassword.css
+
+public/
+ └── vite.svg
+
+index.html
+package.json
+vite.config.js
 ```
 
 ---
