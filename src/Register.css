@@ -1,0 +1,40 @@
+.registerdiv{
+    height: 100%;
+    width: 100%;
+    margin: 5%;  
+}
+
+.registerdiv form{
+    height: 200%;
+    width: 100%;
+    margin: 5%; 
+}
+
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 14%;
+    
+}
+
+
+.registerdiv form input{
+    margin-top: 7%;
+    background-color:white;
+    border:1px solid black;
+    
+}
+
+.registerdiv #emailid input{
+   
+  
+   color:black;
+}
+
+.registerdiv #passid input{
+  color:black;
+    margin-right:10% ;
+}
+
+.registerdiv form button{
+    margin: 10%;
+}
